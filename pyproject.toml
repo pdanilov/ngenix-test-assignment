@@ -8,3 +8,6 @@ version = "1.0"
 dependencies = [
     "typer-cli"
 ]
+
+[tool.setuptools]
+packages = ["zipxml"]
